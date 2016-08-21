@@ -178,4 +178,3 @@ C:\Users\devuser\Documents\dev\Win10_IoT_WebServer\BackgroundWebServer\Backgroun
 C:\Users\devuser\Documents\dev\Win10_IoT_WebServer\BackgroundWebServer\BackgroundWebServer\obj\ARM\Debug\qualifiers.txt.intermediate
 C:\Users\devuser\Documents\dev\Win10_IoT_WebServer\BackgroundWebServer\BackgroundWebServer\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\devuser\Documents\dev\Win10_IoT_WebServer\BackgroundWebServer\BackgroundWebServer\obj\ARM\Debug\ProjectArchitectures.txt
-C:\Users\devuser\Documents\dev\Win10_IoT_WebServer\BackgroundWebServer\BackgroundWebServer\obj\ARM\Debug\BackgroundWebServer.csprojResolveAssemblyReference.cache

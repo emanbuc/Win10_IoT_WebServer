@@ -46,8 +46,10 @@ namespace BackgroundWebServer
                 {
                     using (var response = output.AsStreamForWrite())
                     {
-                        String responseString = @"< html >< head >< title > Background Application Web Server Message </ title ></ head >< body > Hello World!< br />
-                                                    You sent the following query in your HTTP GET request:" + query + "</body></html>";
+                        String responseString = @"<html><head><title> Background Application Web Server </title ></head >
+                                                    <body><p>Hello World! Webserver is working!<p/>
+                                                    <p>You sent the following query in your HTTP GET request:" + query + 
+                                                    "</p></body></html>";
 
                         var html = Encoding.UTF8.GetBytes(responseString);
                         using (var bodyStream = new MemoryStream(html))

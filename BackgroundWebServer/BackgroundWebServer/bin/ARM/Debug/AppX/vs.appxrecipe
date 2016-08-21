@@ -16,25 +16,25 @@
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>36ECDF67EA95547F35A7D3023AA41038194ED2C17166420144F2B264EE82E2B4</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>BackgroundWebServer-uwp_1.0.0.0_arm__rgc0csk5zmk8j</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>B8F3932224589B8DB16966B1AA44D94C9E25960053474CA3713185F796F809EB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>BackgroundWebServer-uwp_1.1.0.0_arm__rgc0csk5zmk8j</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>BackgroundWebServer-uwp_rgc0csk5zmk8j!App</RegisteredUserModeAppID>
     <RegisteredPackageID>BackgroundWebServer-uwp</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=devuser</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>False</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\devuser\Documents\dev\Win10_IoT_WebServer\BackgroundWebServer\BackgroundWebServer\bin\ARM\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-08-21T10:12:03.809</Modified>
+      <Modified>2016-08-21T10:21:36.904</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\devuser\Documents\dev\Win10_IoT_WebServer\BackgroundWebServer\BackgroundWebServer\bin\ARM\Debug\BackgroundWebServer.winmd">
       <PackagePath>BackgroundWebServer.winmd</PackagePath>
-      <Modified>2016-08-21T10:12:01.753</Modified>
+      <Modified>2016-08-21T10:21:33.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devuser\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -492,7 +492,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devuser\Documents\dev\Win10_IoT_WebServer\BackgroundWebServer\BackgroundWebServer\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-08-21T10:12:02.248</Modified>
+      <Modified>2016-08-21T10:21:35.351</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devuser\Documents\dev\Win10_IoT_WebServer\BackgroundWebServer\BackgroundWebServer\bin\ARM\Debug\Core\UWPShim.exe">
       <PackagePath>UWPShim.exe</PackagePath>

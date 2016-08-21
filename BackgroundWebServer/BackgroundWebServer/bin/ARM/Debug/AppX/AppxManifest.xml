@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="BackgroundWebServer-uwp" Publisher="CN=devuser" Version="1.0.0.0" ProcessorArchitecture="arm" />
+  <Identity Name="BackgroundWebServer-uwp" Publisher="CN=devuser" Version="1.1.0.0" ProcessorArchitecture="arm" />
   <mp:PhoneIdentity PhoneProductId="c9578d6b-15bd-4314-abdb-6465f1435203" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>BackgroundWebServer</DisplayName>
